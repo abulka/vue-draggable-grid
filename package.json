@@ -1,6 +1,6 @@
 {
   "name": "@noction/vue-draggable-grid-monorepo",
-  "version": "1.10.1",
+  "version": "1.11.0",
   "packageManager": "pnpm@8.14.1",
   "engines": {
     "node": ">=18",
