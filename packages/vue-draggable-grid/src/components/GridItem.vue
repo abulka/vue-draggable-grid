@@ -508,6 +508,8 @@ onMounted(() => {
   tryMakeDraggable()
   createStyle()
 })
+
+defineExpose({ calcXY, dragging }) // ANDY: expose calcXY and dragging
 </script>
 
 <template>

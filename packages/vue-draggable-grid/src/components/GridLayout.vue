@@ -443,6 +443,7 @@ provide(GRID_PROVIDER_INJECTION_KEY, {
   handleDragEvent,
   handleResizeEvent,
 })
+defineExpose({ handleDragEvent }) // ANDY: dragEvent has been renamed handleDragEvent
 </script>
 
 <template>
